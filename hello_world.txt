@@ -1,0 +1,2 @@
+Here is some text that I am adding per section 4. in The odin project 
+under foundations - get basics
